@@ -1,0 +1,32 @@
+[
+    {
+        "category": "Anna Nagar",
+        "category_img": "/images/Food_option/apartment.svg",
+        "count": 1
+    },
+    {
+        "category": "T Nagar",
+        "category_img": "/images/Food_option/villa.svg",
+        "count": 1
+    },
+    {
+        "category": "Velachery",
+        "category_img": "/images/Food_option/office.svg",
+        "count": 1
+    },
+    {
+        "category": "Tambaram",
+        "category_img": "/images/Food_option/shop.svg",
+        "count": 1
+    },
+    {
+        "category": "Ramapuram",
+        "category_img": "/images/Food_option/house.svg",
+        "count": 1
+    },
+    {
+        "category": "Porur",
+        "category_img": "/images/Food_option/warehouse.svg",
+        "count": 1
+    }
+]

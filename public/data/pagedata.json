@@ -1,0 +1,121 @@
+{
+  "menuItems": [
+    { "name": "Home", "href": "#home" },
+    { "name": "Menu", "href": "#menu" },
+    { "name": "Bakery", "href": "#bakery" },
+    { "name": "Restaurant", "href": "#restaurant" },
+    { "name": "Contact", "href": "#contact" },
+    { "name": "Blog", "href": "/#blog" }
+  ],
+
+  "features": [
+    {
+      "id": 1,
+      "imgSrc": "/images/features/fresh-food.svg",
+      "title": "Fresh Ingredients",
+      "description": "We use only fresh and high-quality ingredients to prepare delicious bakery items and restaurant dishes every day."
+    },
+    {
+      "id": 2,
+      "imgSrc": "/images/features/chef.svg",
+      "title": "Expert Chefs",
+      "description": "Our experienced chefs create mouth-watering recipes with authentic taste and premium quality."
+    },
+    {
+      "id": 3,
+      "imgSrc": "/images/features/delivery.svg",
+      "title": "Fast Delivery",
+      "description": "Get your favorite food delivered quickly and safely right to your doorstep."
+    }
+  ],
+
+  "searchOptions": {
+    "keywords": [
+      {
+        "value": "",
+        "label": "Food Name",
+        "placeholder": "Search Food"
+      }
+    ],
+
+    "locations": [
+      { "value": "", "label": "Branch Location" },
+      { "value": "Anna Nagar", "label": "Anna Nagar" },
+      { "value": "T Nagar", "label": "T Nagar" },
+      { "value": "Velachery", "label": "Velachery" },
+      { "value": "Tambaram", "label": "Tambaram" },
+      { "value": "Porur", "label": "Porur" },
+      { "value": "OMR", "label": "OMR" }
+    ],
+
+    "category": [
+      { "value": "", "label": "Food Category" },
+      { "value": "Bakery Foods", "label": "Bakery Foods" },
+      { "value": "Restaurant Foods", "label": "Restaurant Foods" }
+    ],
+
+    "rating": [
+      { "value": "", "label": "Rating" },
+      { "value": "4.7", "label": "4.7" },
+      { "value": "4.8", "label": "4.8" },
+      { "value": "4.9", "label": "4.9" },
+      { "value": "5", "label": "5" }
+    ],
+
+    "preparationTime": [
+      { "value": "", "label": "Preparation Time" },
+      { "value": "5", "label": "5 mins" },
+      { "value": "10", "label": "10 mins" },
+      { "value": "15", "label": "15 mins" },
+      { "value": "20", "label": "20 mins" },
+      { "value": "25", "label": "25 mins" },
+      { "value": "30", "label": "30 mins" },
+      { "value": "35", "label": "35 mins" }
+  ]
+  },
+
+  "data": [
+    {
+      "src": "/images/categories/cake.svg",
+      "src1": "/images/categories/cake-active.svg",
+      "alt": "Cake",
+      "name": "Cakes",
+      "count": 45
+    },
+    {
+      "src": "/images/categories/pastry.svg",
+      "src1": "/images/categories/pastry-active.svg",
+      "alt": "Pastry",
+      "name": "Pastries",
+      "count": 32
+    },
+    {
+      "src": "/images/categories/snacks.svg",
+      "src1": "/images/categories/snacks-active.svg",
+      "alt": "Snacks",
+      "name": "Snacks",
+      "count": 38
+    },
+    {
+      "src": "/images/categories/pizza.svg",
+      "src1": "/images/categories/pizza-active.svg",
+      "alt": "Pizza",
+      "name": "Pizza",
+      "count": 24
+    },
+    {
+      "src": "/images/categories/burger.svg",
+      "src1": "/images/categories/burger-active.svg",
+      "alt": "Burger",
+      "name": "Burgers",
+      "count": 28
+    },
+    {
+      "src": "/images/categories/drinks.svg",
+      "src1": "/images/categories/drinks-active.svg",
+      "alt": "Beverages",
+      "name": "Beverages",
+      "count": 20
+    }
+  ]
+}

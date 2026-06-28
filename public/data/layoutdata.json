@@ -1,0 +1,23 @@
+{
+  "headerData": [
+    { "label": "Home", "href": "/" },
+    {
+      "label": "LFood",
+      "href": "#",
+      "submenu": [
+        { "label": "Food List", "href": "/LFood/LFoodlist" },
+        { "label": "Food Details", "href": "/LFood/LFoodlist/chocolate-truffle-cake" }
+      ]
+    },
+    {
+      "label": "Blogs",
+      "href": "#",
+      "submenu": [
+        { "label": "Blog Grid", "href": "/blogs" },
+        { "label": "Blog Details", "href": "/blogs/blog_1" }
+      ]
+    },
+    { "label": "Contact", "href": "/contact" }
+  ]
+}
+

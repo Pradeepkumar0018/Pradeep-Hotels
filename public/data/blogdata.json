@@ -1,0 +1,182 @@
+[
+    {
+        "slug": "best-chocolate-cake",
+        "title": "Best Chocolate Cake",
+        "date": "2026-06-26",
+        "coverImage": "/images/blog/blog-1.jpg",
+        "authorImage": "/images/avatar/avatar_1.jpg",
+        "excerpt": "Discover the rich taste of chocolate cake.",
+        "content": "Chocolate cake is one of the most loved desserts in the world."
+    },
+    {
+        "slug": "perfect-biryani",
+        "title": "Perfect Biryani Recipe",
+        "date": "2026-06-25",
+        "coverImage": "/images/blog/blog-2.jpg",
+        "authorImage": "/images/avatar/avatar_1.jpg",
+        "excerpt": "Learn how to prepare authentic biryani.",
+        "content": "Biryani is a flavorful rice dish made with spices and meat."
+    },
+    {
+        "slug": "crispy-chicken-burger",
+        "title": "Crispy Chicken Burger",
+        "date": "2026-06-24",
+        "coverImage": "/images/blog/blog-3.jpg",
+        "authorImage": "/images/avatar/avatar_1.jpg",
+        "excerpt": "A juicy chicken burger recipe loved by everyone.",
+        "content": "Chicken burgers are a perfect combination of crispy chicken, fresh vegetables, and soft buns."
+    },
+    {
+        "slug": "healthy-veg-salad",
+        "title": "Healthy Veg Salad",
+        "date": "2026-06-23",
+        "authorImage": "/images/avatar/avatar_1.jpg",
+        "coverImage": "/images/blog/blog-4.jpg",
+        "excerpt": "Simple and healthy salad for everyday meals.",
+        "content": "Vegetable salads provide essential nutrients while keeping meals light and refreshing."
+    },
+    {
+        "slug": "homemade-pizza-guide",
+        "title": "Homemade Pizza Guide",
+        "date": "2026-06-22",
+        "authorImage": "/images/avatar/avatar_1.jpg",
+        "coverImage": "/images/blog/blog-5.jpg",
+        "excerpt": "Learn to make restaurant-style pizza at home.",
+        "content": "Making pizza at home allows you to customize toppings and enjoy fresh flavors."
+    },
+    {
+        "slug": "perfect-pasta-recipe",
+        "title": "Perfect Pasta Recipe",
+        "date": "2026-06-21",
+        "authorImage": "/images/avatar/avatar_1.jpg",
+        "coverImage": "/images/blog/blog-6.jpg",
+        "excerpt": "Italian pasta recipe with rich creamy sauce.",
+        "content": "Pasta is a versatile dish that can be prepared with various sauces and ingredients."
+    },
+    {
+        "slug": "fresh-fruit-smoothies",
+        "title": "Fresh Fruit Smoothies",
+        "date": "2026-06-20",
+        "authorImage": "/images/avatar/avatar_1.jpg",
+        "coverImage": "/images/blog/blog-7.jpg",
+        "excerpt": "Refreshing smoothies packed with nutrition.",
+        "content": "Fruit smoothies are delicious beverages made with fresh fruits and natural ingredients."
+    },
+    {
+        "slug": "south-indian-breakfast",
+        "title": "South Indian Breakfast Ideas",
+        "date": "2026-06-19",
+        "authorImage": "/images/avatar/avatar_1.jpg",
+        "coverImage": "/images/blog/blog-8.jpg",
+        "excerpt": "Explore healthy and tasty South Indian breakfasts.",
+        "content": "South Indian breakfasts like idli, dosa, and pongal are nutritious and filling."
+    },
+    {
+        "slug": "ultimate-fried-rice",
+        "title": "Ultimate Fried Rice",
+        "date": "2026-06-18",
+        "authorImage": "/images/avatar/avatar_1.jpg",
+        "coverImage": "/images/blog/blog-9.jpg",
+        "excerpt": "Make flavorful fried rice in just minutes.",
+        "content": "Fried rice is a quick meal prepared with vegetables, sauces, and your choice of protein."
+    },
+    {
+        "slug": "chocolate-donut-delight",
+        "title": "Chocolate Donut Delight",
+        "date": "2026-06-17",
+        "authorImage": "/images/avatar/avatar_1.jpg",
+        "coverImage": "/images/blog/blog-10.jpg",
+        "excerpt": "Soft and delicious donuts with chocolate glaze.",
+        "content": "Chocolate donuts are popular snacks loved by both kids and adults."
+    },
+    {
+        "slug": "best-ice-cream-flavors",
+        "title": "Best Ice Cream Flavors",
+        "date": "2026-06-16",
+        "authorImage": "/images/avatar/avatar_1.jpg",
+        "coverImage": "/images/blog/blog-11.jpg",
+        "excerpt": "Top ice cream flavors everyone should try.",
+        "content": "Ice cream comes in many flavors, from classic vanilla to rich chocolate and fruit blends."
+    },
+    {
+        "slug": "street-food-specials",
+        "title": "Street Food Specials",
+        "date": "2026-06-15",
+        "authorImage": "/images/avatar/avatar_1.jpg",
+        "coverImage": "/images/blog/blog-12.jpg",
+        "excerpt": "Popular street foods from around the world.",
+        "content": "Street food offers affordable and flavorful dishes enjoyed by millions daily."
+    },
+    {
+        "slug": "best-cupcake-recipes",
+        "title": "Best Cupcake Recipes",
+        "date": "2026-06-14",
+        "authorImage": "/images/avatar/avatar_1.jpg",
+        "coverImage": "/images/blog/blog-13.jpg",
+        "excerpt": "Easy cupcake recipes for every occasion.",
+        "content": "Cupcakes are small cakes that can be decorated creatively for celebrations."
+    },
+    {
+        "slug": "grilled-sandwich-guide",
+        "title": "Grilled Sandwich Guide",
+        "date": "2026-06-13",
+        "authorImage": "/images/avatar/avatar_1.jpg",
+        "coverImage": "/images/blog/blog-14.jpg",
+        "excerpt": "Crispy grilled sandwiches with tasty fillings.",
+        "content": "Grilled sandwiches are simple, quick meals suitable for breakfast or snacks."
+    },
+    {
+        "slug": "traditional-indian-sweets",
+        "title": "Traditional Indian Sweets",
+        "date": "2026-06-12",
+        "authorImage": "/images/avatar/avatar_1.jpg",
+        "coverImage": "/images/blog/blog-15.jpg",
+        "excerpt": "Discover famous sweets from India.",
+        "content": "Indian sweets like gulab jamun and rasgulla are cherished during festivals and celebrations."
+    },
+    {
+        "slug": "spicy-noodle-recipes",
+        "title": "Spicy Noodle Recipes",
+        "date": "2026-06-11",
+        "authorImage": "/images/avatar/avatar_1.jpg",
+        "coverImage": "/images/blog/blog-16.jpg",
+        "excerpt": "Noodles packed with spice and flavor.",
+        "content": "Spicy noodles are popular comfort foods enjoyed across different cuisines."
+    },
+    {
+        "slug": "healthy-breakfast-bowls",
+        "title": "Healthy Breakfast Bowls",
+        "date": "2026-06-10",
+        "authorImage": "/images/avatar/avatar_1.jpg",
+        "coverImage": "/images/blog/blog-17.jpg",
+        "excerpt": "Nutritious breakfast bowls to start your day.",
+        "content": "Breakfast bowls combine fruits, grains, and proteins for a balanced meal."
+    },
+    {
+        "slug": "coffee-lovers-guide",
+        "title": "Coffee Lovers Guide",
+        "date": "2026-06-09",
+        "authorImage": "/images/avatar/avatar_1.jpg",
+        "coverImage": "/images/blog/blog-18.jpg",
+        "excerpt": "Everything you need to know about coffee.",
+        "content": "Coffee is one of the world's most consumed beverages and comes in many varieties."
+    },
+    {
+        "slug": "best-bakery-items",
+        "title": "Best Bakery Items",
+        "date": "2026-06-08",
+        "authorImage": "/images/avatar/avatar_1.jpg",
+        "coverImage": "/images/blog/blog-19.jpg",
+        "excerpt": "Popular bakery treats you must try.",
+        "content": "Bakery items such as cakes, muffins, and croissants are loved for their rich flavors."
+    },
+    {
+        "slug": "summer-drinks-collection",
+        "title": "Summer Drinks Collection",
+        "date": "2026-06-07",
+        "authorImage": "/images/avatar/avatar_1.jpg",
+        "coverImage": "/images/blog/blog-20.jpg",
+        "excerpt": "Refreshing drinks perfect for hot days.",
+        "content": "Summer drinks help you stay hydrated while offering refreshing flavors and cooling effects."
+    }
+]
