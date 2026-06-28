@@ -10,7 +10,7 @@ import React, {
   useState,
 } from 'react';
 
-import { FoodData } from '@/types/Food/fooddata';
+import { FoodData } from '@/app/types/Food/fooddata';
 
 interface Filters {
   keyword: string;
